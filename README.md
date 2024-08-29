@@ -1,6 +1,6 @@
 # Addressing RSC and Dot Notation Issues
 
-This is the demo repository for the blog post [Multipart Namespace Components: Addressing RSC and Dot Notation Issues](https://ivicabatinic.from.hr/posts/multipart-namespace-components-addressing-rsc-and-dot-notation-issues?ck_subscriber_id=1866524825&utm_source=convertkit&utm_medium=email&utm_campaign=%E2%9A%9B%EF%B8%8F%20This%20Week%20In%20React%20#198:%20React-Email,%20MUI,%20Rspack,%20prerendering,%20tree-shaking,%20Next.js,%20TanStack,%20Remix,%20RSC,%20Code%20Hike,%20Astro,%20CodePush,%20visionOS,%20Tophat,%20Bluetooth,%20MKKV,%20Swift,%20Re.Pack,%20Reanimated,%20TypeScript,%20Node...%20-%2014840825).
+This is the demo repository for the blog post [Multipart Namespace Components: Addressing RSC and Dot Notation Issues](https://ivicabatinic.from.hr/posts/multipart-namespace-components-addressing-rsc-and-dot-notation-issues).
 
 ## Running the demo
 
