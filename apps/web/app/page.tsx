@@ -1,4 +1,5 @@
-import * as Card from "ui/card-complex/namespace";
+import { Card } from "ui";
+// import * as Card from "ui/card-complex/namespace";
 
 export const dynamic = "force-dynamic";
 
